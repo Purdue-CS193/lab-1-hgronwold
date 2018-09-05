@@ -1,13 +1,10 @@
-## Haleigh Gronwold's first CS193 Lab :)
-
-
 # Haleigh Gronwold's first CS193 Lab :)
 ## Have fun viewing my fAnCy nEw WeBsiTe
 ### Enjoy your stay folks
 
-Follow me on Insta (haleigh_78) and Snap (haleigh78) :D
-Purdue University '22
-Chicagoland area <3
+ - Follow me on Insta (haleigh_78) and Snap (haleigh78) :D
+ - Purdue University '22
+ - Chicagoland area <3
 
 - What I love about Purdue CS
 
