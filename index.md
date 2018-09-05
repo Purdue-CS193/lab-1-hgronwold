@@ -15,7 +15,8 @@ What I love about Purdue CS
 
 ### Markdown
 
-// Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+// yeah idk what this is but I'm going to leave it here for your eNjoYmEnT
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
