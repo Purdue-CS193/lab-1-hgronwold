@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Haleigh Gronwold's first CS193 Lab :)
 ## Have fun viewing my fAnCy nEw WeBsiTe
-### Enjoy your stay
+### Enjoy your stay folks
 
 - What I love about Purdue CS
 
