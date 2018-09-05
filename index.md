@@ -6,7 +6,7 @@
  - Purdue University '22
  - Chicagoland area <3
 
-- What I love about Purdue CS
+What I love about Purdue CS
 
 1. Buster
 2. Logan Days
