@@ -12,14 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Haleigh Gronwold's first CS193 Lab :)
-## Header 2
-### Header 3
+## Have fun viewing my fAnCy nEw WeBsiTe
+### Enjoy your stay
 
-- Bulleted
-- List
+- What I love about Purdue CS
 
-1. List
-2. List
+1. Buster
+2. Logan Days
+3. Making GitHub websites in 193 Lab
 
 **Bold** and _Italic_ and `Code` text
 
